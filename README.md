@@ -28,7 +28,9 @@
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Python
 - **Cloud.Prov**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AWS, Azure, GCP, Huawei Cloud
 - **FrameWorks**: &nbsp;&nbsp;&nbsp; SRE, Scrum, ITIL, COBIT
-- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker, Terraform, 
+- **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker, Terraform 
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,github,githubactions,linux,py,kubernetes)](https://skillicons.dev)
 
 ##  **My Certifications 🏅**
 - [AWS Certified: Solutions Architect Professional](https://www.credly.com/earner/earned/badge/61df27b2-44e1-41a2-93b8-a11ad56af533)
